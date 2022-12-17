@@ -1,4 +1,4 @@
-# Data mining for reddit*
+# Data mining for reddit
 
 Project done for a social sciences Stats class. Involves the following:
 
