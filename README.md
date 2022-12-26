@@ -10,6 +10,8 @@ The analysis involves the following:
 - Interpreting results
 
 
+**Disclaimer:** the code is from June 2021. Currently, it is being revised to remove any inefficiencies and make it cleaner overall
+
 ----------------
 
 The aim is to explore whether Reddit has been able to safeguard free speech, and if it has remained free of any degree of polarization which may repel or deter potential users from expressing their opinions. Thus, in this notebook, we explore whether this platform has gotten more politically biased during the last few years; that is, to have an exploratory analysis of whether posts, in general, have gotten more left-winged, right-winged, or perhaps apolitical.
